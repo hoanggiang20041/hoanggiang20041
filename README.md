@@ -9,6 +9,7 @@
 - 🛠 Currently focusing on: **Flutter & Java Development**
 - 🌐 Building web interfaces with: **HTML5 & CSS3**
 - 📱 Major Project: **GKM (Healthcare Support & Care System)**
+  
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:giang10012004@gmail.com)
 
 ### 💻 Tech Stack (Shield Style)
